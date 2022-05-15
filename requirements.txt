@@ -1,0 +1,10 @@
+psycopg2-binary
+tldextract
+icmplib
+lxml
+dnslib
+aiohttp
+requests
+ipwhois
+bs4
+aiodns
