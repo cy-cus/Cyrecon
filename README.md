@@ -1,5 +1,5 @@
 # Cyrecon
-Cyrecon is a tool for hackers and penetration testers to perform  recon on wesites and identify vulnerabilities or information that mihght lead to one breaking in<br/>
+Cyrecon is a tool for hackers and penetration testers to perform  recon on websites and identify vulnerabilities or information that might lead to them breaking in<br/>
 <br/>
 It is a tool written in python that enhances your recon automation, it's fast and gives out better and well arranged results
 
